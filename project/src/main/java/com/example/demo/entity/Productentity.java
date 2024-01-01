@@ -11,6 +11,7 @@ public class Productentity {
 	private String grocerytype;
 	private int manufacturedate;
 	private int expirationdate;
+	
 	public int getGroceryid() {
 		return groceryid;
 	}
